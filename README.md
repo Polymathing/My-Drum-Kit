@@ -8,5 +8,5 @@ Check it out:
 
 [Online Drum-Kit](https://polymathing.github.io/Drum-Kit/)
 
-_PS:
+_PS:_
 _Now you can make some noise, or just do the "ba dum tss!" when a friend tells you a poor joke. Thank me later. 😄_
